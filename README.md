@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vitor!!!
+## Welcome to Vitor's profile!!!
 
  <div>
    <a href="https://github.com/Vito-yse">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Minhas redes sociais 😀
+### My social networks 😀
  
 <div> 
   <a href="https://instagram.com/Vito.yse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
